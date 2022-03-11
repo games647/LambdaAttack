@@ -4,10 +4,10 @@ import com.github.games647.lambdaattack.Options;
 import com.github.games647.lambdaattack.bot.Bot;
 import com.github.games647.lambdaattack.bot.EntitiyLocation;
 import com.github.steveice10.packetlib.event.session.PacketReceivedEvent;
-import com.github.steveice10.protocol.v1_16.packet.ingame.server.ServerChatPacket;
-import com.github.steveice10.protocol.v1_16.packet.ingame.server.ServerJoinGamePacket;
-import com.github.steveice10.protocol.v1_16.packet.ingame.server.entity.player.ServerPlayerHealthPacket;
-import com.github.steveice10.protocol.v1_16.packet.ingame.server.entity.player.ServerPlayerPositionRotationPacket;
+import com.github.steveice10.protocol.v1_18.packet.ingame.server.ServerChatPacket;
+import com.github.steveice10.protocol.v1_18.packet.ingame.server.ServerJoinGamePacket;
+import com.github.steveice10.protocol.v1_18.packet.ingame.server.entity.player.ServerPlayerHealthPacket;
+import com.github.steveice10.protocol.v1_18.packet.ingame.server.entity.player.ServerPlayerPositionRotationPacket;
 import net.kyori.adventure.text.Component;
 
 import java.util.logging.Level;
